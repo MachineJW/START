@@ -1,3 +1,1 @@
-Python을 시작하는 단계입니다.
-데이터 분석 = 쥬피터 노트북
-일반 프로그래밍 = 파이참 사용
+Python(PyCharm) 및 juptyer Notebook(데이터분석)
